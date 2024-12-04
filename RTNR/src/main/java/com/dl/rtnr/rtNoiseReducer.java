@@ -409,7 +409,7 @@ public class rtNoiseReducer {
 
         double loss = getLoss(doubleData, se_out);
         System.out.println("Loss : " + loss);
-
+        Log.d("", "Optimizer Vietnam bruh bruh");
 
         return se_out;
     }
