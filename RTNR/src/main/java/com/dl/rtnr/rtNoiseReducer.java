@@ -136,6 +136,7 @@ public class rtNoiseReducer {
         }
 
         Log.d("", "Init interpreter of tflite");
+        Log.d("", "Optimizer Vietnam bruh bruh");
     }
 
     // CRN - Conv1
